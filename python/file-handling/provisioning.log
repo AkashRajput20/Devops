@@ -1,0 +1,12 @@
+2026-08-25 02:14:03 INFO user=priya.s@safelanes.xyz action=CREATE_ACCOUNT result=OK
+2026-08-25 02:14:07 ERROR user=rahul.k@safelanes.xyz action=LICENSE_ASSIGN reason=NO_LICENSE_AVAILABLE
+2026-08-25 02:14:11 INFO user=amit.v@safelanes.xyz action=CREATE_ACCOUNT result=OK
+2026-08-25 02:14:15 ERROR user=neha.j@safelanes.xyz action=GROUP_ADD reason=GROUP_NOT_FOUND
+2026-08-25 02:14:19 WARNING user=amit.v@safelanes.xyz action=MANAGER_SET reason=MANAGER_MISSING
+2026-08-25 02:14:22 ERROR user=vikram.d@safelanes.xyz action=LICENSE_ASSIGN reason=NO_LICENSE_AVAILABLE
+2026-08-25 02:14:26 INFO user=sana.m@safelanes.xyz action=CREATE_ACCOUNT result=OK
+2026-08-25 02:14:30 ERROR user=rahul.k@safelanes.xyz action=GROUP_ADD reason=PERMISSION_DENIED
+2026-08-25 02:14:33 corrupted entry no fields here
+2026-08-25 02:14:37 ERROR user=neha.j@safelanes.xyz action=LICENSE_ASSIGN reason=NO_LICENSE_AVAILABLE
+2026-08-25 02:14:41 WARNING user=priya.s@safelanes.xyz action=MANAGER_SET reason=MANAGER_MISSING
+2026-08-25 02:14:45 INFO user=deepak.r@safelanes.xyz action=CREATE_ACCOUNT result=OK
