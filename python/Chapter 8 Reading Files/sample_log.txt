@@ -1,0 +1,5 @@
+2026-08-20 INFO Server started successfully
+2026-08-20 ERROR Disk usage exceeded threshold
+2026-08-20 INFO Backup completed
+2026-08-20 ERROR Connection timeout
+2026-08-20 INFO Health check passed
