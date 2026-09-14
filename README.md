@@ -7,8 +7,8 @@ Background: 7 years in IT infrastructure, currently M365 Global Admin.
 
 ## Structure
 
-- `python/` — Python fundamentals and automation practice
-- `linux/` — shell and Linux exercises
+- `python/` — py4e practice, numbered by chapter
+- `projects/` — working scripts: log parser, license audit
 
 ## Current focus
 
