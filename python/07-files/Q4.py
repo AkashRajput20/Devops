@@ -8,3 +8,4 @@ try:
     print(gcps1)
 except FileNotFoundError:
     print("File not found")
+    (exit)
